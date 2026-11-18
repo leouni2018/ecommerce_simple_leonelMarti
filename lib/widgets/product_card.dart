@@ -43,7 +43,7 @@ class ProductCard extends StatelessWidget {
                       return Container(
                         color: product.color,
                         child: Center(
-                          child: Icon(product.icon, size: 42, color: Colors.indigo),
+                          child: Icon(product.icon, size: 40, color: Colors.indigo),
                         ),
                       );
                     },

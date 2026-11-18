@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720" font-family="Arial, Helvetica, sans-serif">
+  <defs><clipPath id="s"><rect x="8" y="8" width="344" height="704" rx="30"/></clipPath></defs>
+  <rect width="360" height="720" rx="36" fill="#1b1b1f"/>
+  <rect x="8" y="8" width="344" height="704" rx="30" fill="#f6f6fa"/>
+  <g clip-path="url(#s)">
+    <rect x="8" y="8" width="344" height="84" fill="#3F51B5"/>
+    <text x="28" y="30" font-size="11" fill="#fff">9:41</text>
+    <path d="M38 62 l-9 8 l9 8 M29 70 h22" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="64" y="76" font-size="19" font-weight="bold" fill="#fff">Checkout</text>
+
+    <text x="24" y="120" font-size="15" font-weight="bold" fill="#222">Datos de envío</text>
+    <rect x="24" y="132" width="312" height="44" rx="8" fill="#fff" stroke="#9e9eb0"/>
+    <text x="34" y="146" font-size="9" fill="#3F51B5">Nombre completo</text><text x="34" y="165" font-size="13" fill="#222">Juan Pérez</text>
+    <rect x="24" y="188" width="312" height="44" rx="8" fill="#fff" stroke="#9e9eb0"/>
+    <text x="34" y="202" font-size="9" fill="#3F51B5">Dirección</text><text x="34" y="221" font-size="13" fill="#222">Calle 123 #45-67</text>
+    <rect x="24" y="244" width="312" height="44" rx="8" fill="#fff" stroke="#9e9eb0"/>
+    <text x="34" y="258" font-size="9" fill="#3F51B5">Teléfono</text><text x="34" y="277" font-size="13" fill="#222">300 123 4567</text>
+
+    <text x="24" y="324" font-size="15" font-weight="bold" fill="#222">Método de pago</text>
+    <rect x="24" y="336" width="312" height="48" rx="8" fill="#fff" stroke="#9e9eb0"/>
+    <text x="36" y="366" font-size="13" fill="#222">Tarjeta de crédito</text>
+    <path d="M312 356 l6 7 l6 -7" fill="none" stroke="#666" stroke-width="2"/>
+
+    <text x="24" y="424" font-size="15" font-weight="bold" fill="#222">Resumen del pedido</text>
+    <rect x="24" y="436" width="312" height="136" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <text x="40" y="466" font-size="13" fill="#444">Camiseta básica x2</text><text x="320" y="466" font-size="13" fill="#444" text-anchor="end">$39.98</text>
+    <text x="40" y="490" font-size="13" fill="#444">Zapatillas urbanas x1</text><text x="320" y="490" font-size="13" fill="#444" text-anchor="end">$59.99</text>
+    <text x="40" y="514" font-size="13" fill="#444">Gorra deportiva x1</text><text x="320" y="514" font-size="13" fill="#444" text-anchor="end">$14.99</text>
+    <path d="M40 528 h280" stroke="#e2e2ea"/>
+    <text x="40" y="554" font-size="15" font-weight="bold" fill="#222">Total</text><text x="320" y="554" font-size="17" font-weight="bold" fill="#3F51B5" text-anchor="end">$114.96</text>
+
+    <rect x="24" y="632" width="312" height="52" rx="26" fill="#3F51B5"/>
+    <text x="180" y="664" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">Confirmar pedido</text>
+  </g>
+</svg>

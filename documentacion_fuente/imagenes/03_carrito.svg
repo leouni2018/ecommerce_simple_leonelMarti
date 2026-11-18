@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720" font-family="Arial, Helvetica, sans-serif">
+  <defs><clipPath id="s"><rect x="8" y="8" width="344" height="704" rx="30"/></clipPath></defs>
+  <rect width="360" height="720" rx="36" fill="#1b1b1f"/>
+  <rect x="8" y="8" width="344" height="704" rx="30" fill="#f6f6fa"/>
+  <g clip-path="url(#s)">
+    <rect x="8" y="8" width="344" height="84" fill="#3F51B5"/>
+    <text x="28" y="30" font-size="11" fill="#fff">9:41</text>
+    <path d="M38 62 l-9 8 l9 8 M29 70 h22" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="64" y="76" font-size="19" font-weight="bold" fill="#fff">Carrito</text>
+
+    <!-- item 1 -->
+    <rect x="20" y="108" width="320" height="96" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="32" y="122" width="68" height="68" rx="10" fill="#C5CAE9"/><circle cx="66" cy="156" r="16" fill="#fff" opacity=".85"/>
+    <text x="112" y="140" font-size="14" font-weight="bold" fill="#222">Camiseta básica</text>
+    <text x="112" y="160" font-size="13" fill="#3F51B5">$19.99</text>
+    <circle cx="124" cy="180" r="11" fill="#fff" stroke="#3F51B5"/><path d="M119 180 h10" stroke="#3F51B5" stroke-width="2"/>
+    <text x="150" y="185" font-size="14" font-weight="bold" fill="#222" text-anchor="middle">2</text>
+    <circle cx="176" cy="180" r="11" fill="#3F51B5"/><path d="M171 180 h10 M176 175 v10" stroke="#fff" stroke-width="2"/>
+    <text x="318" y="140" font-size="14" font-weight="bold" fill="#222" text-anchor="end">$39.98</text>
+    <path d="M312 170 h16 M315 170 v14 h10 v-14 M318 166 h4" fill="none" stroke="#E53935" stroke-width="2"/>
+
+    <!-- item 2 -->
+    <rect x="20" y="216" width="320" height="96" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="32" y="230" width="68" height="68" rx="10" fill="#FFE0B2"/><circle cx="66" cy="264" r="16" fill="#fff" opacity=".85"/>
+    <text x="112" y="248" font-size="14" font-weight="bold" fill="#222">Zapatillas urbanas</text>
+    <text x="112" y="268" font-size="13" fill="#3F51B5">$59.99</text>
+    <circle cx="124" cy="288" r="11" fill="#fff" stroke="#3F51B5"/><path d="M119 288 h10" stroke="#3F51B5" stroke-width="2"/>
+    <text x="150" y="293" font-size="14" font-weight="bold" fill="#222" text-anchor="middle">1</text>
+    <circle cx="176" cy="288" r="11" fill="#3F51B5"/><path d="M171 288 h10 M176 283 v10" stroke="#fff" stroke-width="2"/>
+    <text x="318" y="248" font-size="14" font-weight="bold" fill="#222" text-anchor="end">$59.99</text>
+    <path d="M312 278 h16 M315 278 v14 h10 v-14 M318 274 h4" fill="none" stroke="#E53935" stroke-width="2"/>
+
+    <!-- item 3 -->
+    <rect x="20" y="324" width="320" height="96" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="32" y="338" width="68" height="68" rx="10" fill="#C8E6C9"/><circle cx="66" cy="372" r="16" fill="#fff" opacity=".85"/>
+    <text x="112" y="356" font-size="14" font-weight="bold" fill="#222">Gorra deportiva</text>
+    <text x="112" y="376" font-size="13" fill="#3F51B5">$14.99</text>
+    <circle cx="124" cy="396" r="11" fill="#fff" stroke="#3F51B5"/><path d="M119 396 h10" stroke="#3F51B5" stroke-width="2"/>
+    <text x="150" y="401" font-size="14" font-weight="bold" fill="#222" text-anchor="middle">1</text>
+    <circle cx="176" cy="396" r="11" fill="#3F51B5"/><path d="M171 396 h10 M176 391 v10" stroke="#fff" stroke-width="2"/>
+    <text x="318" y="356" font-size="14" font-weight="bold" fill="#222" text-anchor="end">$14.99</text>
+    <path d="M312 386 h16 M315 386 v14 h10 v-14 M318 382 h4" fill="none" stroke="#E53935" stroke-width="2"/>
+
+    <!-- resumen -->
+    <rect x="8" y="560" width="344" height="152" fill="#fff"/>
+    <path d="M8 560 h344" stroke="#e2e2ea"/>
+    <text x="24" y="596" font-size="15" fill="#666">Total (4 productos)</text>
+    <text x="336" y="596" font-size="22" font-weight="bold" fill="#222" text-anchor="end">$114.96</text>
+    <rect x="24" y="620" width="312" height="52" rx="26" fill="#3F51B5"/>
+    <text x="180" y="652" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">Finalizar compra</text>
+  </g>
+</svg>

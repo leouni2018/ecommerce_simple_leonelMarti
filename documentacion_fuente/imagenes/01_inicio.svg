@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720" font-family="Arial, Helvetica, sans-serif">
+  <defs><clipPath id="s"><rect x="8" y="8" width="344" height="704" rx="30"/></clipPath></defs>
+  <rect width="360" height="720" rx="36" fill="#1b1b1f"/>
+  <rect x="8" y="8" width="344" height="704" rx="30" fill="#f6f6fa"/>
+  <g clip-path="url(#s)">
+    <rect x="8" y="8" width="344" height="84" fill="#3F51B5"/>
+    <text x="28" y="30" font-size="11" fill="#fff">9:41</text>
+    <text x="28" y="70" font-size="20" font-weight="bold" fill="#fff">Mi Tienda</text>
+    <!-- carrito -->
+    <path d="M300 56 h6 l4 14 h16 l3 -10 h-21" fill="none" stroke="#fff" stroke-width="2.2" stroke-linejoin="round"/>
+    <circle cx="313" cy="75" r="2.5" fill="#fff"/><circle cx="327" cy="75" r="2.5" fill="#fff"/>
+    <circle cx="334" cy="52" r="9" fill="#E53935"/><text x="334" y="56" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+    <!-- buscador -->
+    <rect x="20" y="104" width="320" height="40" rx="20" fill="#fff" stroke="#cfcfd8"/>
+    <circle cx="42" cy="123" r="6" fill="none" stroke="#888" stroke-width="2"/><path d="M47 128 l5 5" stroke="#888" stroke-width="2"/>
+    <text x="62" y="128" font-size="13" fill="#999">Buscar productos...</text>
+    <!-- chips -->
+    <rect x="20" y="156" width="64" height="32" rx="16" fill="#3F51B5"/><text x="52" y="176" font-size="12" fill="#fff" text-anchor="middle">Todos</text>
+    <rect x="92" y="156" width="58" height="32" rx="16" fill="#fff" stroke="#cfcfd8"/><text x="121" y="176" font-size="12" fill="#333" text-anchor="middle">Ropa</text>
+    <rect x="158" y="156" width="74" height="32" rx="16" fill="#fff" stroke="#cfcfd8"/><text x="195" y="176" font-size="12" fill="#333" text-anchor="middle">Calzado</text>
+    <rect x="240" y="156" width="96" height="32" rx="16" fill="#fff" stroke="#cfcfd8"/><text x="288" y="176" font-size="12" fill="#333" text-anchor="middle">Accesorios</text>
+
+    <!-- fila 1 -->
+    <rect x="20" y="204" width="152" height="214" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="20" y="204" width="152" height="120" rx="12" fill="#C5CAE9"/><circle cx="96" cy="264" r="26" fill="#fff" opacity=".85"/>
+    <text x="30" y="348" font-size="13" font-weight="bold" fill="#222">Camiseta básica</text>
+    <text x="30" y="372" font-size="14" font-weight="bold" fill="#3F51B5">$19.99</text>
+    <text x="30" y="396" font-size="11" fill="#888">Ropa</text>
+
+    <rect x="188" y="204" width="152" height="214" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="188" y="204" width="152" height="120" rx="12" fill="#BBDEFB"/><circle cx="264" cy="264" r="26" fill="#fff" opacity=".85"/>
+    <text x="198" y="348" font-size="13" font-weight="bold" fill="#222">Jeans clásicos</text>
+    <text x="198" y="372" font-size="14" font-weight="bold" fill="#3F51B5">$39.99</text>
+    <text x="198" y="396" font-size="11" fill="#888">Ropa</text>
+
+    <!-- fila 2 -->
+    <rect x="20" y="430" width="152" height="214" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="20" y="430" width="152" height="120" rx="12" fill="#FFE0B2"/><circle cx="96" cy="490" r="26" fill="#fff" opacity=".85"/>
+    <text x="30" y="574" font-size="13" font-weight="bold" fill="#222">Zapatillas urbanas</text>
+    <text x="30" y="598" font-size="14" font-weight="bold" fill="#3F51B5">$59.99</text>
+    <text x="30" y="622" font-size="11" fill="#888">Calzado</text>
+
+    <rect x="188" y="430" width="152" height="214" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="188" y="430" width="152" height="120" rx="12" fill="#D7CCC8"/><circle cx="264" cy="490" r="26" fill="#fff" opacity=".85"/>
+    <text x="198" y="574" font-size="13" font-weight="bold" fill="#222">Botas de cuero</text>
+    <text x="198" y="598" font-size="14" font-weight="bold" fill="#3F51B5">$89.99</text>
+    <text x="198" y="622" font-size="11" fill="#888">Calzado</text>
+
+    <!-- fila 3 (cortada) -->
+    <rect x="20" y="656" width="152" height="214" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="20" y="656" width="152" height="120" rx="12" fill="#C8E6C9"/>
+    <rect x="188" y="656" width="152" height="214" rx="12" fill="#fff" stroke="#e2e2ea"/>
+    <rect x="188" y="656" width="152" height="120" rx="12" fill="#F8BBD0"/>
+  </g>
+</svg>
