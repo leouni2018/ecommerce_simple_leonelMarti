@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720" font-family="Arial, Helvetica, sans-serif">
+  <defs><clipPath id="s"><rect x="8" y="8" width="344" height="704" rx="30"/></clipPath></defs>
+  <rect width="360" height="720" rx="36" fill="#1b1b1f"/>
+  <rect x="8" y="8" width="344" height="704" rx="30" fill="#f6f6fa"/>
+  <g clip-path="url(#s)">
+    <rect x="8" y="8" width="344" height="84" fill="#3F51B5"/>
+    <text x="28" y="30" font-size="11" fill="#fff">9:41</text>
+    <path d="M38 62 l-9 8 l9 8 M29 70 h22" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="64" y="76" font-size="19" font-weight="bold" fill="#fff">Detalle</text>
+
+    <rect x="8" y="92" width="344" height="230" fill="#FFE0B2"/>
+    <circle cx="180" cy="207" r="62" fill="#fff" opacity=".85"/>
+
+    <text x="24" y="360" font-size="22" font-weight="bold" fill="#222">Zapatillas urbanas</text>
+    <text x="24" y="392" font-size="22" font-weight="bold" fill="#3F51B5">$59.99</text>
+    <rect x="244" y="374" width="84" height="26" rx="13" fill="#E8EAF6"/><text x="286" y="392" font-size="12" fill="#3F51B5" text-anchor="middle">Calzado</text>
+
+    <text x="24" y="430" font-size="14" font-weight="bold" fill="#222">Descripción</text>
+    <text x="24" y="452" font-size="13" fill="#666">Zapatillas cómodas y ligeras para el uso</text>
+    <text x="24" y="472" font-size="13" fill="#666">diario. Suela antideslizante y diseño</text>
+    <text x="24" y="492" font-size="13" fill="#666">moderno que combina con todo.</text>
+
+    <text x="24" y="540" font-size="14" font-weight="bold" fill="#222">Cantidad</text>
+    <circle cx="226" cy="534" r="17" fill="#fff" stroke="#3F51B5" stroke-width="1.5"/><path d="M219 534 h14" stroke="#3F51B5" stroke-width="2.2"/>
+    <text x="262" y="540" font-size="18" font-weight="bold" fill="#222" text-anchor="middle">2</text>
+    <circle cx="298" cy="534" r="17" fill="#3F51B5"/><path d="M291 534 h14 M298 527 v14" stroke="#fff" stroke-width="2.2"/>
+
+    <rect x="24" y="636" width="312" height="52" rx="26" fill="#3F51B5"/>
+    <text x="180" y="668" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">Agregar al carrito</text>
+  </g>
+</svg>
